@@ -353,10 +353,10 @@ headerStyle =
 btnStyle : Attribute msg
 btnStyle =
     style
-        [ ( "background-color", "white" )
-        , ( "border", "none" )
-        , ( "color", "black" )
-        , ( "padding", "12px 16px" )
-        , ( "font-size", "16px" )
-        , ( "cursor", "pointer" )
+        [ ( "background-color" , "white" )
+        , ( "border" , "none" )
+        , ( "color" , "black" )
+        , ( "padding" , "12px 16px" )
+        , ( "font-size" , "16px" )
+        , ( "cursor",  "pointer" )
         ]
